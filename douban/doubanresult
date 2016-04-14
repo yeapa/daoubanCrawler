@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <title>
+    编程 (豆瓣)
+</title>
+    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+  
+  <meta name="keywords" content="编程">
+  <meta name="description" content="关于编程的电影、图书、音乐、文章、图片、小组">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
+  <meta name="mobile-agent" content="format=xhtml; url=https://m.douban.com/tag/编程/">
+
+    <script >var _head_start = new Date();</script>
+    <script src="https://img3.doubanio.com/f/shire/72ced6df41d4d158420cebdd254f9562942464e3/js/jquery.min.js"></script>
+    <script src="https://img3.doubanio.com/f/shire/07f5c81e9c7fcdd676bf2078c79d6c5ffbb93b80/js/douban.js"></script>
+    <link href="https://img3.doubanio.com/f/shire/bdb62d45fb145651da30ac3fec98f21c40cfc962/css/douban.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    
+        
+    </style>
+    
+  <link type="text/css" href="https://img3.doubanio.com/f/sns/4db37319d48ea50eb265a0a587f909cbc11fd93b/css/sns/statuses/base.css" rel="stylesheet"/>
+  <link type="text/css" href="https://img3.doubanio.com/f/whitehole/dd4964a55e93c2a8ac50b83ab297089a82d53e9a/css/topic.css" rel="stylesheet"/>
+  <script type="text/javascript" src="https://img3.doubanio.com/f/shire/29449d396dacb28fd9949c709ccf02a46b910156/js/do.js" data-cfg-autoload="false"></script>
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/6c264d1107cf379d.css">
+    <script></script>
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+    
+   
+
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+<div class="top-nav-info">
+      
+      <a href="https://www.douban.com/accounts/login?source=main" class="nav-login" rel="nofollow">登录</a>
+      <a href="https://www.douban.com/accounts/register?source=main" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+        
+        <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+        <div id="top-nav-appintro" class="more-items">
+            <p class="appintro-title">豆瓣</p>
+            <p class="slogan">和有趣的人做有趣的事</p>
+            <p class="qrcode">
+                扫码直接下载
+            </p>
+            <div class="download">
+                <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=iOS">iPhone</a>
+                <span>·</span>
+                <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=Android" class="download-android">Android</a>
+            </div>
+        </div>
+        <div id="doubanapp-tip">
+            <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 3.0 全新发布</a>
+            <a href="javascript: void 0;" class="tip-close">×</a>
+        </div>
+    </div>
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li class="on">
+            <a href="https://www.douban.com/" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-main&#34;,&#34;uid&#34;:&#34;0&#34;}">豆瓣</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://book.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-book&#34;,&#34;uid&#34;:&#34;0&#34;}">读书</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://movie.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-movie&#34;,&#34;uid&#34;:&#34;0&#34;}">电影</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://music.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-music&#34;,&#34;uid&#34;:&#34;0&#34;}">音乐</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://www.douban.com/location/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-location&#34;,&#34;uid&#34;:&#34;0&#34;}">同城</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://www.douban.com/group/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-group&#34;,&#34;uid&#34;:&#34;0&#34;}">小组</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-read&#34;,&#34;uid&#34;:&#34;0&#34;}">阅读</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="http://douban.fm/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-fm&#34;,&#34;uid&#34;:&#34;0&#34;}">FM</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-commodity&#34;,&#34;uid&#34;:&#34;0&#34;}">东西</a>
+            </li>
+          
+            
+            <li class="">
+            <a href="https://market.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-market&#34;,&#34;uid&#34;:&#34;0&#34;}">市集</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-moment&#34;,&#34;uid&#34;:&#34;0&#34;}">一刻</a></td></tr>
+                    
+                    <tr><td><a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-ypy&#34;,&#34;uid&#34;:&#34;0&#34;}">一拍一</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+   
+    
+
+
+
+
+
+
+
+<div id="db-nav-sns" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-search">
+        <form action="https://www.douban.com/search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">搜索你感兴趣的内容和人...</label>
+            <div class="inp">
+              <input type="hidden" name="source" value="suggest">
+              <input id="inp-query" name="q" size="22" title="搜索搜索你感兴趣的内容和人..." maxlength="60" autocomplete="off"  value="">
+            </div>
+            <div class="inp-btn"><input type="submit" value="搜索"></div>
+          </fieldset>
+        </form>
+      </div>
+  
+      <div class="nav-logo">
+        <a href="https://www.douban.com">豆瓣社区</a>
+      </div>
+  
+      <div class="nav-items">
+        <ul>
+          <li><a href="https://www.douban.com/">首页</a></li>
+          <li><a href="https://www.douban.com/explore/">浏览发现</a></li>
+          <li>
+              <a href="https://www.douban.com/app/">移动应用</a>
+              <img src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif" alt="new" />
+              
+          </li>
+          <li>
+            <a href="https://www.douban.com/game/explore?dcs=sns-nav&amp;dcm=douban">游戏</a>
+          </li>
+          <li><a href="https://www.douban.com/online/">线上活动</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+    <div id="wrapper">
+        
+
+        
+<div id="content">
+    
+
+    <div class="grid-free clearfix">
+        
+        
+        <div class="article">
+               
+  <div class="tag-v1">
+    
+  <div class="intro">
+    <div class="intro-bd">
+      
+  
+
+  
+
+  <form id="tag-search-form" action="/tag/search" method="GET">
+    <div class="inp">
+      <input class="inp-text" id="tag-query" name="search_text" size="22" value="" autocomplete="off" placeholder="搜索标签">
+      <input class="inp-btn" type="submit" value="搜索">
+    </div>
+  </form>
+
+      <div class="title">
+          <h1>编程</h1>
+
+      </div>
+
+
+      
+
+    </div>
+  </div>
+
+    <div class="related-topics">
+      
+        <a href="https://thing.douban.com/subject/37/" class="rlt">&gt; 关于编程的事情</a>
+    </div>
+
+
+    
+
+  <ul class="wf-columns">
+  </ul>
+    
+  
+    
+    <div class="clearfix mod">
+      
+      <h2>
+        <span>关于编程的书</span>&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot; <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Ftag%2F%25E7%25BC%2596%25E7%25A8%258B%2Fbook&amp;type=tag_more&amp;name=%E7%BC%96%E7%A8%8B&amp;focus=book&amp;mod=book" class="more-links">（全部）</a>
+      </h2>
+      
+        <div class="mod-list book-list" id="book">
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/6021440/?from=tag" target="_blank">
+        <img src="https://img1.doubanio.com/lpic/s4669554.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/6021440/?from=tag" class="title" target="_blank">黑客与画家</a>
+        
+      
+      <div class="desc">
+        [美] Paul Graham / 阮一峰 / 人民邮电出版社 / 2011-4 / 49.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.8</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/10750155/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/lpic/s9114855.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/10750155/?from=tag" class="title" target="_blank">数学之美</a>
+        
+      
+      <div class="desc">
+        吴军 / 人民邮电出版社 / 2012-5-1 / 45.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/1148282/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/lpic/s1113106.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/1148282/?from=tag" class="title" target="_blank">计算机程序的构造和解释</a>
+        
+      
+      <div class="desc">
+        Harold Abelson / Gerald Jay Sussman / Julie Sussman / 裘宗燕 / 机械工业出版社 / 2004-02-01 / 45.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar50"></span>
+          <span class="rating_nums">9.5</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/4822685/?from=tag" target="_blank">
+        <img src="https://img1.doubanio.com/lpic/s4379914.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/4822685/?from=tag" class="title" target="_blank">编码</a>
+        
+      
+      <div class="desc">
+        [美] Charles Petzold / 左飞 / 薛佟佟 / 电子工业出版社 / 2010 / 55.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.2</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/5333562/?from=tag" target="_blank">
+        <img src="https://img1.doubanio.com/lpic/s4510534.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/5333562/?from=tag" class="title" target="_blank">深入理解计算机系统（原书第2版）</a>
+        
+      
+      <div class="desc">
+        （美）Randal E.Bryant / David O&#39;Hallaron / 龚奕利 / 雷迎春 / 机械工业出版社 / 2011-1-1 / 99.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar50"></span>
+          <span class="rating_nums">9.7</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/10590856/?from=tag" target="_blank">
+        <img src="https://img1.doubanio.com/lpic/s9108113.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/10590856/?from=tag" class="title" target="_blank">统计学习方法</a>
+        
+      
+      <div class="desc">
+        李航 / 清华大学出版社 / 2012-3 / 38.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/3288908/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/lpic/s3350961.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/3288908/?from=tag" class="title" target="_blank">集体智慧编程</a>
+        
+      
+      <div class="desc">
+        TOBY SEGARAN / 莫映 / 王开福 / 电子工业出版社 / 2009-1 / 59.80元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.0</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/2130190/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/lpic/s27243455.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/2130190/?from=tag" class="title" target="_blank">Java编程思想 （第4版）</a>
+        
+      
+      <div class="desc">
+        [美] Bruce Eckel / 陈昊鹏 / 机械工业出版社 / 2007-6 / 108.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.1</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://book.douban.com/subject/10546125/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/lpic/s8958650.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://book.douban.com/subject/10546125/?from=tag" class="title" target="_blank">JavaScript高级程序设计（第3版）</a>
+        
+      
+      <div class="desc">
+        [美] Nicholas C. Zakas / 李松峰 / 曹　力 / 人民邮电出版社 / 2012-3-29 / 99.00元
+      </div>
+    
+        <div class="rating">
+          <span class="allstar50"></span>
+          <span class="rating_nums">9.3</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+
+
+
+      </div>
+
+        <button class="load-more">更多书</button>
+
+    </div>
+
+  
+
+    
+  
+    
+    <div class="clearfix mod">
+      
+      <h2>
+        <span>关于编程的小组</span>&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot; <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Ftag%2F%25E7%25BC%2596%25E7%25A8%258B%2Fgroup&amp;type=tag_more&amp;name=%E7%BC%96%E7%A8%8B&amp;focus=book&amp;mod=group" class="more-links">（全部）</a>
+      </h2>
+      
+        <div class="mod-list group-list" id="group">
+
+          
+  
+  <dl>
+    <dt>
+      <a href="https://www.douban.com/group/python/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/icon/g10003-1.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://www.douban.com/group/python/?from=tag" class="title" target="_blank">Python编程</a>
+    
+      <div class="meta">
+        72474 个成员在此聚集
+      </div>
+    </dd>
+    <dd class="info">
+    
+      <p><a href="https://www.douban.com/group/topic/30008503/?from=tag" target="_blank" class="desc">Python快速教程</a><span class="reply">（259回复）</span></p>
+      <p><a href="https://www.douban.com/group/topic/37056131/?from=tag" target="_blank" class="desc">Python初学者（零基础学习Python、Python入门）常见问题：书籍推荐、资料、社区</a><span class="reply">（71回复）</span></p>
+      <p><a href="https://www.douban.com/group/topic/13716762/?from=tag" target="_blank" class="desc">收集了一些python的文章</a><span class="reply">（260回复）</span></p>
+    </dd>
+  </dl>
+
+
+          
+  
+  <dl>
+    <dt>
+      <a href="https://www.douban.com/group/programmer/?from=tag" target="_blank">
+        <img src="https://img1.doubanio.com/icon/g10367-2.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://www.douban.com/group/programmer/?from=tag" class="title" target="_blank">程序员书屋</a>
+    
+      <div class="meta">
+        34573 个成员在此聚集
+      </div>
+    </dd>
+    <dd class="info">
+    
+      <p><a href="https://www.douban.com/group/topic/42492792/?from=tag" target="_blank" class="desc">安卓开发教程最强大搜集！</a><span class="reply">（52回复）</span></p>
+      <p><a href="https://www.douban.com/group/topic/27806166/?from=tag" target="_blank" class="desc">国外知名IT网站Stackoverflow评选的最有影响力IT图书</a><span class="reply">（146回复）</span></p>
+      <p><a href="https://www.douban.com/group/topic/30260894/?from=tag" target="_blank" class="desc">讲述一个关于高考的“黑客”故事：用2B铅笔“注入”阅卷系统</a><span class="reply">（37回复）</span></p>
+    </dd>
+  </dl>
+
+
+          
+  
+  <dl>
+    <dt>
+      <a href="https://www.douban.com/group/cc/?from=tag" target="_blank">
+        <img src="https://img3.doubanio.com/icon/g24182-1.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://www.douban.com/group/cc/?from=tag" class="title" target="_blank">C语言</a>
+    
+      <div class="meta">
+        28102 个成员在此聚集
+      </div>
+    </dd>
+    <dd class="info">
+    
+      <p><a href="https://www.douban.com/group/topic/10587108/?from=tag" target="_blank" class="desc">(转）学习c/c++的50个好网站</a><span class="reply">（174回复）</span></p>
+      <p><a href="https://www.douban.com/group/topic/44033893/?from=tag" target="_blank" class="desc">【C基础语言教程】C语言是编程语言的根据，从这里开始你的编程之旅吧！</a><span class="reply">（31回复）</span></p>
+      <p><a href="https://www.douban.com/group/topic/48533469/?from=tag" target="_blank" class="desc">【教程分享】C语言 基础教程、视频教程100讲、编程资料【珍藏】</a><span class="reply">（418回复）</span></p>
+    </dd>
+  </dl>
+
+
+
+
+
+      </div>
+
+        <button class="load-more">更多小组</button>
+
+    </div>
+
+  
+
+    
+  
+    
+    <div class="clearfix mod">
+      
+      <h2>
+        <span>关于编程的影视</span>&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot; <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Ftag%2F%25E7%25BC%2596%25E7%25A8%258B%2Fmovie&amp;type=tag_more&amp;name=%E7%BC%96%E7%A8%8B&amp;focus=book&amp;mod=movie" class="more-links">（全部）</a>
+      </h2>
+      
+        <div class="mod-list mod-less movie-list" id="movie">
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="https://movie.douban.com/subject/26580195/?from=tag" target="_blank">
+        <img src="https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2259120588.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://movie.douban.com/subject/26580195/?from=tag" class="title" target="_blank">编程：消除性别差距 CODE: Debugging the Gender Gap</a>
+        
+      
+      <div class="desc">
+        美国 / 传记 / 纪录片 / 家庭 / 2015 / Robin Hauser Reynolds
+      </div>
+    
+    </dd>
+  </dl>
+
+
+
+
+             <dl class="place"></dl>
+             <dl class="place"></dl>
+
+
+      </div>
+
+        <p class="ended">关于编程的影视 没有更多了...</p>
+
+    </div>
+
+  
+
+    
+  
+    
+    <div class="clearfix mod">
+      
+      <h2>
+        <span>关于编程的图文</span>&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot; <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Ftag%2F%25E7%25BC%2596%25E7%25A8%258B%2Farticle&amp;type=tag_more&amp;name=%E7%BC%96%E7%A8%8B&amp;focus=book&amp;mod=article" class="more-links">（全部）</a>
+      </h2>
+      
+        <div class="mod-list article-list" id="article">
+
+          
+  
+  
+  <div class="note-item">
+    <h3>
+      <a href="https://www.douban.com/note/330562764/?from=tag" class="title" target="_blank">LeetCode 题目总结/分类</a>
+    </h3>
+    <div class="desc">
+      注：此分类仅供大概参考，没有精雕细琢。有不同意见欢迎评论~ 欢迎参考我的leetcode代码 利用堆栈： http://oj.leetcode.com/problems/evaluate-reverse-polish-notation/ http://oj.leetcode.com/prob...
+    </div>
+    <div class="meta">
+      <span>161喜欢</span>
+      <span>16回应</span>
+      <span>马孔多的日记</span>
+    </div>
+  </div>
+
+
+          
+  
+  
+  <div class="note-item">
+    <h3>
+      <a href="https://www.douban.com/note/504641483/?from=tag" class="title" target="_blank">类型系统</a>
+    </h3>
+    <div class="desc">
+      有友邻问道怎么入门类型系统，貌似我被问过几次了，所以这里写个日记，以后直接指向这 其实我对类型系统也不是很熟，只是知道一点而已。要入门类型系统首先要会用，所以推荐先用用有类型系统的语言，ha...
+    </div>
+    <div class="meta">
+      <span>19喜欢</span>
+      <span>5回应</span>
+      <span>邻家のR君的日记</span>
+    </div>
+  </div>
+
+
+          
+  
+  
+  <div class="note-item">
+    <h3>
+      <a href="https://www.douban.com/note/353996627/?from=tag" class="title" target="_blank">Golang 大半年使用感受</a>
+    </h3>
+    <div class="desc">
+      去年下半年开始在公司写 Go。选它只有一个原因，我想要 C++ 的性能但是又嫌 C++ 的开发效率不够。到现在已经把整个后端团队的大牛们吸引到 Go 阵营，回顾整个历程，应该算利大于弊。总得来说我认为 Go ...
+    </div>
+    <div class="meta">
+      <span>35喜欢</span>
+      <span>15回应</span>
+      <span>三鲜的日记</span>
+    </div>
+  </div>
+
+
+
+
+
+      </div>
+
+        <button class="load-more">更多图文</button>
+
+    </div>
+
+  
+
+    
+  
+    
+    <div class="clearfix mod">
+      
+      <h2>
+        <span>关于编程的豆列</span>&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot; <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.douban.com%2Ftag%2F%25E7%25BC%2596%25E7%25A8%258B%2Fdoulist&amp;type=tag_more&amp;name=%E7%BC%96%E7%A8%8B&amp;focus=book&amp;mod=doulist" class="more-links">（全部）</a>
+      </h2>
+      
+        <div class="mod-list doulist-list" id="doulist">
+
+          
+  
+  
+  <dl>
+    <dt>
+      <a href="https://www.douban.com/doulist/43821161/" target="_blank" class="doulist-cover">
+        <img src="https://frodo.douban.com/img_handler/doulist_cover/43821161/20160326" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://www.douban.com/doulist/43821161/" class="title" target="_blank">论程序员的自我修养</a>
+      <div class="meta">
+        10 个内容 13人关注
+      </div>
+    </dd>
+  </dl>
+
+
+          
+  
+  
+  <dl>
+    <dt>
+      <a href="https://www.douban.com/doulist/38554443/" target="_blank" class="doulist-cover">
+        <img src="https://frodo.douban.com/img_handler/doulist_cover/38554443/20160325" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://www.douban.com/doulist/38554443/" class="title" target="_blank">Python编程</a>
+      <div class="meta">
+        75 个内容 62人关注
+      </div>
+    </dd>
+  </dl>
+
+
+          
+  
+  
+  <dl>
+    <dt>
+      <a href="https://www.douban.com/doulist/38524026/" target="_blank" class="doulist-cover">
+        <img src="https://frodo.douban.com/img_handler/doulist_cover/38524026/20150608" />
+      </a>
+    </dt>
+    <dd>
+      <a href="https://www.douban.com/doulist/38524026/" class="title" target="_blank">Vamei学编程</a>
+      <div class="meta">
+        6 个内容 150人关注
+      </div>
+    </dd>
+  </dl>
+
+
+
+
+
+      </div>
+
+        <button class="load-more">更多豆列</button>
+
+    </div>
+
+  
+
+    
+  
+
+
+  </div>
+
+        </div>
+        <div class="aside">
+                
+        </div>
+        <div class="extra">
+            
+        </div>
+    </div>
+</div>
+
+        
+<div id="footer">
+    
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2016 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=main" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/57bd7374ea7ba6c.js"></script>
+    
+    
+    
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_setCampNameKey', 'dcn']);
+_gaq.push(['_setCampSourceKey', 'dcs']);
+_gaq.push(['_setCampMediumKey', 'dcm']);
+_gaq.push(['_setCampTermKey', 'dct']);
+_gaq.push(['_setCampContentKey', 'dcc']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+
+    _gaq.push(['_setCustomVar', 1, 'responsive_view_mode', 'desktop', 3]);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+window._ga_init = function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+};
+if (window.addEventListener) {
+    window.addEventListener('load', _ga_init, false);
+} else {
+    window.attachEvent('onload', _ga_init);
+}
+</script>
+
+
+
+
+
+    <!-- sindar23b-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
