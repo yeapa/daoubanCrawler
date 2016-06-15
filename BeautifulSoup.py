@@ -40,7 +40,7 @@ def getHtml(url):
 proxyInfo="127.0.0.1:8087"
 proxySupport=urllib2.ProxyHandler({'http':proxyInfo})
 opener=urllib2.build_opener(proxySupport)
-urllib2.install_opener(opener);
+urllib2.install_opener(opener)
 
 url="https://movie.douban.com/subject/10463953/collections?start=40"
 html=getHtml(url)
