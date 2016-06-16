@@ -4,6 +4,7 @@ import urllib2
 import sys
 import matplotlib.pyplot as plt
 import numpy as np
+import itertools
 import re
 import string
 import json
@@ -51,15 +52,14 @@ proxySupport=urllib2.ProxyHandler({'http':proxyInfo})
 opener=urllib2.build_opener(proxySupport)
 urllib2.install_opener(opener);
 
-for count in xrange(0,200,20):
+for count in xrange(0,100,20):
     last="?start=%d&type=T" % count
     url="https://book.douban.com/tag/编程"+last
     html=getHtml(url)
     parseHtmlUserId(html)
-x=np.linspace(0,len(priceList)-1)
-plt(x,priceList)
-resd=dict(zip(priceList,bookNameList))
-resd=sorted(resd.iteritems(),key=lambda d:d[0])
-print json.dumps(resd,encoding="utf-8",ensure_ascii=False)
-# saveUserInfo(curIdList,curLinkList)
-# print curIdList
+x=np.linspace(0,len(priceList),len(priceList))
+priceList.sort()
+plt.plot(x,priceList)
+plt.ylabel("price")
+plt.xlabel("count")
+plt.show()
