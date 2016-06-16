@@ -2,6 +2,8 @@
 from bs4 import BeautifulSoup
 import urllib2
 import sys
+import matplotlib.pyplot as plt
+import numpy as np
 import re
 import string
 import json
@@ -54,7 +56,8 @@ for count in xrange(0,200,20):
     url="https://book.douban.com/tag/编程"+last
     html=getHtml(url)
     parseHtmlUserId(html)
-
+x=np.linspace(0,len(priceList)-1)
+plt(x,priceList)
 resd=dict(zip(priceList,bookNameList))
 resd=sorted(resd.iteritems(),key=lambda d:d[0])
 print json.dumps(resd,encoding="utf-8",ensure_ascii=False)
